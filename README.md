@@ -32,3 +32,5 @@ I have a passion for programming and am self-taught. Currently, my focus is on t
 </picture>
 </div>
 
+![react dancing](./react.gif)
+
