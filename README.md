@@ -9,8 +9,7 @@ I have a passion for programming and am self-taught. Currently, my focus is on t
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-<!--![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)-->
-<!--![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)-->
+
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -32,5 +31,4 @@ I have a passion for programming and am self-taught. Currently, my focus is on t
 </picture>
 </div>
 
-![react dancing](./react.gif)
-
+<img src="./react.gif" alt="React Dancing" width="200" height="200" />
