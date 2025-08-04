@@ -22,13 +22,8 @@ I have a passion for programming and am self-taught. Currently, my focus is on t
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=minn09&show_icons=true" />
 </picture>
   <!--Learn-->
-  <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minn09&theme=dark"
-    media="(prefers-color-scheme: dark)"/>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=minn09&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/username=minn09&show_icons=true" />
-</picture>
-</div>
 
 <img src="./react.gif" alt="React Dancing" width="200" height="200" />
+</div>
+
+
