@@ -23,5 +23,6 @@ I have a passion for programming and am self-taught. Currently, my focus is on t
 </picture>
   <!--Learn-->
 
-<img src="./react.gif" alt="React Dancing" width="200" height="200" />
+<img src="./react.gif" alt="React Dancing" width="200" height="200" loop/>
 </div>
+
