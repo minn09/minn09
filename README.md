@@ -1,5 +1,5 @@
 # Hi I'm Jonathan
-I'm a software engineering student.<br/>
+I'm a software engineering.<br/>
 I have a passion for programming and am self-taught. Currently, my focus is on the improvement of my expertise in the areas of technical knowledge and skills. Interested in exploring and applying new technologies to personal projects.
 
 ## 💻 Tech Stack
@@ -25,5 +25,3 @@ I have a passion for programming and am self-taught. Currently, my focus is on t
 
 <img src="./react.gif" alt="React Dancing" width="200" height="200" />
 </div>
-
-
